@@ -1,5 +1,5 @@
 ## Play the Game!
-To try out the game, simply download the "Release" folder and open Asteroids.exe.  (The executable requires freeglut.dll to be in the same directory.)
+To try out the game, simply download the "Release" folder and open Asteroids.exe (this executable requires freeglut.dll to be in the same directory).
 
 ## Made With
 - Language used: C++
