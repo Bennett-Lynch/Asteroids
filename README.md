@@ -19,6 +19,6 @@ Interesting notes:
 ## Reuse Permissions
 This project should not be used as a resource by anyone tasked with a similar academic project.  Otherwise, this project may be freely used and redistributed.
 
-## TODO List
+## To Do List
 - Refactor gameplay logic out of main class
 - Improve lighting effects for explosions
