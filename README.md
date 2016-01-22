@@ -1,5 +1,5 @@
 ## Video Demo
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/CO72NSnxGpc/0.jpg)](http://www.youtube.com/watch?v=CO72NSnxGpc "Video Title")
+<div style="text-align:center">[![IMAGE ALT TEXT](http://img.youtube.com/vi/CO72NSnxGpc/0.jpg)](http://www.youtube.com/watch?v=CO72NSnxGpc "Video Title")</div>
 
 ## Play the Game!
 To try out the game, simply download the "Release" folder and open Asteroids.exe (this executable requires freeglut.dll to be in the same directory).
