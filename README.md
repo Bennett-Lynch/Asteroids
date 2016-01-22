@@ -1,5 +1,7 @@
 ## Video Demo
-[![http://www.youtube.com/watch?v=CO72NSnxGpc](http://img.youtube.com/vi/CO72NSnxGpc/0.jpg)](http://www.youtube.com/watch?v=CO72NSnxGpc "http://www.youtube.com/watch?v=CO72NSnxGpc"){:target="_blank"}
+[![http://www.youtube.com/watch?v=CO72NSnxGpc](http://img.youtube.com/vi/CO72NSnxGpc/0.jpg)](http://www.youtube.com/watch?v=CO72NSnxGpc "http://www.youtube.com/watch?v=CO72NSnxGpc")
+
+This is [a link](http://example.com){:target="_blank"} that opens in a new window.
 
 ## Play the Game!
 To try out the game, simply download the "Release" folder and open Asteroids.exe (this executable requires freeglut.dll to be in the same directory).
